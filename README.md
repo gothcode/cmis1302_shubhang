@@ -1,7 +1,4 @@
 # cmis1302_shubhang
+This project simulates a game of WAR against the computer. It will cycle through each round until one player has one. 
 
-Hello, 
-
-I will upload all my source code for our class projects here 
-
-Have a good day!
+A full list of rules for this card game can be found here: https://bicyclecards.com/how-to-play/war/
